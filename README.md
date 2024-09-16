@@ -1,5 +1,5 @@
 #Llama 2 NLP Toolkit
-#Overview
+Overview
 This project demonstrates the integration of the Llama 2 model from Hugging Face to build a sentiment-aware chatbot and perform various natural language processing (NLP) tasks. The project utilizes Hugging Face Transformers, covering everything from setting up a pre-trained language model to executing sentiment analysis, text generation, named entity recognition (NER), text summarization, and question-answering.
 
 The sentiment-aware chatbot adjusts its responses based on the sentiment of the user's input, improving user interaction by delivering contextually and emotionally appropriate replies.
